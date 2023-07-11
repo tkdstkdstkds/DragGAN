@@ -1,0 +1,7 @@
+python is 3.10.9
+1. conda env create -f environment.yml
+2. conda activate stylegan3
+3. pip install -r requirements.txt
+4. download and install cuda toolkit for windows
+https://developer.nvidia.com/cuda-11-8-0-download-archive?target_os=Windows&target_arch=x86_64&target_version=11&target_type=exe_local
+5. 
